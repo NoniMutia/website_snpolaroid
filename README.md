@@ -3,11 +3,11 @@ website_tokoonline
 Abadikan Momen, Cetak dengan Mudah! 🎞️
 
 🌟 Tentang Kami
-[Nama Toko] adalah platform cetak foto online berbasis web. Kami menawarkan layanan cetak foto berkualitas tinggi dengan berbagai pilihan ukuran dan jenis kertas.
+SN POLAROID adalah platform cetak foto online berbasis web. Kami menawarkan layanan cetak foto berkualitas tinggi dengan berbagai pilihan ukuran.
 
 🎨 Fitur Unggulan
 ✅ Upload Foto langsung dari perangkatmu 📤
-✅ Pilih Ukuran & Jenis Kertas sesuai kebutuhan 🎨
+✅ Pilih Ukuran sesuai kebutuhan 🎨
 ✅ Preview & Edit Foto sebelum dicetak 🖌️
 ✅ Pengiriman Cepat & Aman ke seluruh Indonesia 🚀
 
