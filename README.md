@@ -18,4 +18,4 @@ LocalStorage/API untuk menyimpan data sementara 🗄️
 📌 Demo Online: https://nonimutia.github.io/website_snpolaroid/
 📥 Cara Menggunakan:
 1️⃣ Clone repository ini:
-```bash git clone https://github.com/username/nama-repo.git
+```bash git clone (https://github.com/NoniMutia/website_snpolaroid.git)
