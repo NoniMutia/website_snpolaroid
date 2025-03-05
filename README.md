@@ -1,21 +1,24 @@
-website_tokoonline
-📸 Toko Cetak Foto Online | SN POLAROID
-Abadikan Momen, Cetak dengan Mudah! 🎞️
+# 📸 Online Photo Printing Store | SN POLAROID  
+Capture Moments, Print with Ease! 🎞️  
 
-🌟 Tentang Kami
-SN POLAROID adalah platform cetak foto online berbasis web. Kami menawarkan layanan cetak foto berkualitas tinggi dengan berbagai pilihan ukuran.
+## 🌟 About Us  
+**SN POLAROID** is a web-based online photo printing platform. We provide high-quality photo printing services with various size options.  
 
-🎨 Fitur Unggulan
-✅ Upload Foto langsung dari perangkatmu 📤
-✅ Pilih Ukuran sesuai kebutuhan 🎨
-✅ Preview & Edit Foto sebelum dicetak 🖌️
-✅ Pengiriman Cepat & Aman ke seluruh Indonesia 🚀
+## 🎨 Key Features  
+✅ Upload photos directly from your device 📤  
+✅ Choose the perfect size for your needs 🎨  
+✅ Preview & edit your photos before printing 🖌️  
+✅ Fast & secure delivery across Indonesia 🚀  
 
-🛠️ Teknologi yang Digunakan
-HTML + CSS untuk tampilan website 🎨
-JavaScript untuk interaksi dinamis ⚡
-LocalStorage/API untuk menyimpan data sementara 🗄️
-📌 Demo Online: https://nonimutia.github.io/website_snpolaroid/
-📥 Cara Menggunakan:
-1️⃣ Clone repository ini:
-```bash git clone (https://github.com/NoniMutia/website_snpolaroid.git)
+## 🛠️ Technologies Used  
+- **HTML + CSS** for website layout & design 🎨  
+- **JavaScript** for dynamic interactions ⚡  
+- **LocalStorage/API** for temporary data storage 🗄️  
+
+## 📌 Live Demo  
+[🔗 Try SN POLAROID Online](https://nonimutia.github.io/website_snpolaroid/)  
+
+## 📥 How to Use  
+1️⃣ Clone this repository:  
+```bash
+git clone https://github.com/NoniMutia/website_snpolaroid.git
