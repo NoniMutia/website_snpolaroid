@@ -1,5 +1,5 @@
 website_tokoonline
-📸 Toko Cetak Foto Online | [Nama Toko]
+📸 Toko Cetak Foto Online | SN POLAROID
 Abadikan Momen, Cetak dengan Mudah! 🎞️
 
 🌟 Tentang Kami
